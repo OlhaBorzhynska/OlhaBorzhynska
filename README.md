@@ -32,4 +32,4 @@ Tech Stack: HTML, CSS, JavaScript, VS Code, Figma, Git.
 
 ## 📫 How to reach me:  
 
-[LinkedIn](www.linkedin.com/in/olha-borzhynska) | [Telegram](https://t.me/Olha_Borzhynska) | [Email](mailto:mykytlo@gmail.com)
+[LinkedIn](www.linkedin.com/in/olha-borzhynska) | [Email](mailto:mykytlo@gmail.com)
