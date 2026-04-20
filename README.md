@@ -7,7 +7,7 @@ I’ve worked with REST API, Postman, and Agile & Scrum methodology - and unexpe
 
 ## 🧰 Tech Stack  
 
-HTML, CSS | JavaScript | TypeScript | REST API |Postman
+HTML, CSS | JavaScript | TypeScript | REST API | Postman
 
 ## 💻Featured Projects  
 
