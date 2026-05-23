@@ -1,15 +1,20 @@
 ## 👋 Hi, I'm Olya Borzhynska
 
-# Junior Frontend Developer | HTML, CSS, JavaScript
+# Junior Frontend Developer | HTML, CSS, JavaScript, React
 
-I’m a Junior Frontend Developer on a path to Fullstack, with a strong foundation in HTML, CSS, and JavaScript, and growing expertise in TypeScript, React, and Next.js. 
+I’m a Junior Frontend Developer on a path to Fullstack, with a strong foundation in HTML/CSS, JavaScript, TypeScript and React, and growing expertise in Next.js. 
 I’ve worked with REST API, Postman, and Agile & Scrum methodology - and unexpectedly found myself loving the Scrum Master role, where I could combine structure, communication, and team support.
 
 ## 🧰 Tech Stack  
 
-HTML, CSS | JavaScript | TypeScript | REST API | Postman | Git
+HTML, CSS | JavaScript | TypeScript | React | Git 
 
 ## 💻Featured Projects  
+
+- [NoteHub](https://github.com/OlyaBorzynska/05-notehub) – is a modern notes management application built with React, TypeScript, and TanStack Query. The app allows users to create, search, paginate, and delete notes through a responsive and user-friendly interface.
+The project demonstrates work with asynchronous requests, API integration, modal windows, form validation, debounced search, and server state management.
+Tech Stack:
+HTML, CSS, JavaScript, React, TypeScript, TanStack Query, Axios, Formik, Yup, CSS Modules, REST API, Axios.
 
 - [Mebleuria](https://github.com/yevhenii-priadko/it-creators-project-meblerija) – is a conceptual platform for selecting and ordering modern furniture, implemented as a high-performance landing page with full REST API integration, an advanced filtering system, and a strong focus on seamless UX/UI.
 As part of a team-based project, I developed the Feedback Section by integrating the Swiper.js slider for responsive UI interaction, implementing dynamic review rendering from a database, and building a star rating visualization component to enhance user experience.
