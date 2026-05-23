@@ -14,7 +14,7 @@ HTML, CSS | JavaScript | TypeScript | React | Git
 - [NoteHub](https://github.com/OlyaBorzynska/05-notehub) – is a modern notes management application built with React, TypeScript, and TanStack Query. The app allows users to create, search, paginate, and delete notes through a responsive and user-friendly interface.
 The project demonstrates work with asynchronous requests, API integration, modal windows, form validation, debounced search, and server state management.
 Tech Stack:
-HTML, CSS, JavaScript, React, TypeScript, TanStack Query, Axios, Formik, Yup, CSS Modules, REST API, Axios.
+HTML, CSS, JavaScript, React, TypeScript, TanStack Query, Axios, Formik, Yup, CSS Modules, REST API.
 
 - [Mebleuria](https://github.com/yevhenii-priadko/it-creators-project-meblerija) – is a conceptual platform for selecting and ordering modern furniture, implemented as a high-performance landing page with full REST API integration, an advanced filtering system, and a strong focus on seamless UX/UI.
 As part of a team-based project, I developed the Feedback Section by integrating the Swiper.js slider for responsive UI interaction, implementing dynamic review rendering from a database, and building a star rating visualization component to enhance user experience.
