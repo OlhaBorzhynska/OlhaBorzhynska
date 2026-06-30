@@ -16,7 +16,7 @@ The project demonstrates authentication with JWT, protected routes using Middlew
   Tech Stack:
 Next.js, React, TypeScript, HTML, CSS, JavaScript, Zustand, TanStack Query, Axios, React Hook Form, CSS Modules, JWT Authentication, REST API.
 
-- [NoteHub](https://github.com/OlyaBorzynska/05-notehub) – is a modern notes management application built with React, TypeScript, and TanStack Query. The app allows users to create, search, paginate, and delete notes through a responsive and user-friendly interface.
+- [NoteHub](https://github.com/OlhaBorzhynska/05-notehub) – is a modern notes management application built with React, TypeScript, and TanStack Query. The app allows users to create, search, paginate, and delete notes through a responsive and user-friendly interface.
 The project demonstrates work with asynchronous requests, API integration, modal windows, form validation, debounced search, and server state management.
   Tech Stack:
 HTML, CSS, JavaScript, React, TypeScript, TanStack Query, Axios, Formik, Yup, CSS Modules, REST API.
@@ -31,7 +31,7 @@ Collaborated on a team project to strengthen HTML and CSS skills, building an ec
   Tech Stack:
 HTML, CSS, VS Code, Figma, Git.
 
-- [Web Studio](https://github.com/OlyaBorzynska/goit-markup-hw-web-studio) - an individual web project created during studies. Built using HTML and CSS, focusing on creating a responsive interface while practicing Flexbox, and clean code structure. 
+- [Web Studio](https://github.com/OlhaBorzhynska/goit-markup-hw-web-studio) - an individual web project created during studies. Built using HTML and CSS, focusing on creating a responsive interface while practicing Flexbox, and clean code structure. 
   Tech Stack:
 HTML, CSS, VS Code, Figma, Git.
 
