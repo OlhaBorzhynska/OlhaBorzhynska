@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Olya Borzhynska
+## 👋 Hi, I'm Olha Borzhynska
 
 # Junior Frontend Developer | HTML/CSS, JavaScript, React, Next.js, TypeScript
 
