@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Olya Borzhynska
 
-# Junior Frontend Developer | HTML, CSS, JavaScript, React, Next.js
+# Junior Frontend Developer | HTML/CSS, JavaScript, React, Next.js, TypeScript
 
 I’m a Junior Frontend Developer on a path to Fullstack, with a strong foundation in HTML/CSS, JavaScript, TypeScript, React and Next.js and growing expertise in Node.js. 
 I’ve worked with REST API, Postman, and Agile & Scrum methodology - and unexpectedly found myself loving the Scrum Master role, where I could combine structure, communication, and team support.
