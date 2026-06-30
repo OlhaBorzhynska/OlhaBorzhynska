@@ -7,7 +7,7 @@ I’ve worked with REST API, Postman, and Agile & Scrum methodology - and unexpe
 
 ## 🧰 Tech Stack  
 
-HTML, CSS | JavaScript | TypeScript | React | Next.js | Git 
+HTML, CSS | JavaScript | TypeScript | React | Next.js | Git | Postman 
 
 ## 💻Featured Projects  
 
@@ -43,4 +43,5 @@ HTML, CSS, VS Code, Figma, Git.
 
 ## 📫 How to reach me:  
 
-[LinkedIn](www.linkedin.com/in/olha-borzhynska) | [Email](mailto:mykytlo@gmail.com)
+- LinkedIn: www.linkedin.com/in/olha-borzhynska
+- Email: mykytlo@gmail.com
