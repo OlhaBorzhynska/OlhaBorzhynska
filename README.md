@@ -1,15 +1,22 @@
 ## 👋 Hi, I'm Olha Borzhynska
 
-# Junior Frontend Developer | HTML/CSS, JavaScript, React, Next.js, TypeScript
+# Junior Full-Stack Developer | React, Next.js, TypeScript, Node.js, JavaScript, HTML, CSS
 
-I’m a Junior Frontend Developer on a path to Fullstack, with a strong foundation in HTML/CSS, JavaScript, TypeScript, React and Next.js and growing expertise in Node.js. 
-I’ve worked with REST API, Postman, and Agile & Scrum methodology - and unexpectedly found myself loving the Scrum Master role, where I could combine structure, communication, and team support.
+I didn’t plan to become a developer - but once I wrote my first lines of code, I couldn’t stop.
+
+Today I’m a Junior Full-Stack Developer with a strong foundation in React, Next.js, Node.js, TypeScript, JavaScript, HTML, and CSS. I enjoy turning ideas into working interfaces and constantly pushing myself to write cleaner, smarter code.
+
+Through personal and team projects, I’ve worked with REST APIs, Express.js, MongoDB, Mongoose, Postman, authentication, full-stack application development, and Agile & Scrum methodology. During team projects, I also enjoyed taking on the Scrum Master role, where I could combine organization, communication, and team support.
 
 ## 🧰 Tech Stack  
 
-HTML, CSS | JavaScript | TypeScript | React | Next.js | Git | Postman 
+| React | Next.js | Node.js | TypeScript |  JavaScript | HTML | CSS | Git | Postman | MongoDB | Mongoose | Express.js 
 
 ## 💻Featured Projects  
+
+- [Notes API](https://github.com/OlhaBorzhynska/nodejs-hw) – is a RESTful backend application built with Node.js, Express, and MongoDB. It provides secure user authentication and allows authenticated users to create, update, search, and manage personal notes. The API follows REST principles and includes interactive documentation powered by Swagger.
+  Tech Stack:
+JavaScript, Node.js, MongoDB, Mongoose, Express.js, JWT Authentication, REST API, Swagger UI.
 
 - [NoteHub (Next.js)](https://github.com/OlhaBorzhynska/09-auth) – is a modern note-taking application built with Next.js, React, and TypeScript. The app allows users to register, authenticate, manage personal notes, update their profiles, and upload avatars through a secure and responsive interface.
 The project demonstrates authentication with JWT, protected routes using Middleware, session management with cookies, API integration, server state management, form validation, file uploads, and modern React development practices.
