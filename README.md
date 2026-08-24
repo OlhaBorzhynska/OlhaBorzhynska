@@ -14,6 +14,14 @@ Through personal and team projects, I’ve worked with REST APIs, Express.js, Mo
 
 ## 💻Featured Projects  
 
+- [Harmoniq](https://github.com/SerdiukSerhii/frontend_project_final_7) – a full-stack team project focused on discovering, reading, saving, and creating articles, as well as exploring author profiles and managing personal content. Features authentication, private routes, article pagination and filtering, bookmarks, image uploads, and rich-text article creation. 
+As a Scrum Master, I coordinated the development process, monitored deadlines and task distribution, maintained project documentation, and presented the final project. 
+As a Full-Stack Developer, I developed the Login page and implemented a backend endpoint for retrieving user information.
+
+  Tech stack:
+Next.js 15, React, TypeScript, CSS Modules, TanStack Query, Zustand, Formik, Yup, Tiptap, Axios, Node.js, Express.js, MongoDB, Mongoose, Joi, Swagger/OpenAPI, Multer, REST API, Git, Vercel, Render.
+ 
+
 - [Notes API](https://github.com/OlhaBorzhynska/nodejs-hw) – is a RESTful backend application built with Node.js, Express, and MongoDB. It provides secure user authentication and allows authenticated users to create, update, search, and manage personal notes. The API follows REST principles and includes interactive documentation powered by Swagger.
   Tech Stack:
 JavaScript, Node.js, MongoDB, Mongoose, Express.js, JWT Authentication, REST API, Swagger UI.
