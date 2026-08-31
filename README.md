@@ -4,7 +4,7 @@
 
 I didn’t plan to become a developer - but once I wrote my first lines of code, I couldn’t stop.
 
-Today I’m a Junior Full-Stack Developer with a strong foundation in React, Next.js, Node.js, TypeScript, JavaScript, HTML, and CSS. I enjoy turning ideas into working interfaces and constantly pushing myself to write cleaner, smarter code.
+Today I’m a Junior Full-Stack Developer with a strong foundation in React, Next.js, Node.js, TypeScript, JavaScript, HTML, and CSS. I have hands-on experience building individual and team projects, integrating REST APIs, working with databases, authentication, forms, and state management.
 
 Through personal and team projects, I’ve worked with REST APIs, Express.js, MongoDB, Mongoose, Postman, authentication, full-stack application development, and Agile & Scrum methodology. During team projects, I also enjoyed taking on the Scrum Master role, where I could combine organization, communication, and team support.
 
