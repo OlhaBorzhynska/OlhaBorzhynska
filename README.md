@@ -4,17 +4,19 @@
 
 I didn’t plan to become a developer - but once I wrote my first lines of code, I couldn’t stop.
 
-Today I’m a Junior Full-Stack Developer with a strong foundation in React, Next.js, Node.js, TypeScript, JavaScript, HTML, and CSS. I have hands-on experience building individual and team projects, integrating REST APIs, working with databases, authentication, forms, and state management.
+Today I’m a Junior Full-Stack Developer with a strong foundation in React, Next.js, Node.js, TypeScript, JavaScript, HTML, and CSS.
 
-Through personal and team projects, I’ve worked with REST APIs, Express.js, MongoDB, Mongoose, Postman, authentication, full-stack application development, and Agile & Scrum methodology. During team projects, I also enjoyed taking on the Scrum Master role, where I could combine organization, communication, and team support.
+I have hands-on experience building full-stack web applications, integrating REST APIs, implementing authentication, working with databases, forms, and validation using technologies such as Express.js, MongoDB, and Mongoose.
+
+During team projects, I also took on the Scrum Master role, coordinating tasks and deadlines, maintaining project documentation, and supporting effective team collaboration.
 
 ## 🧰 Tech Stack  
 
-| React | Next.js | Node.js | TypeScript |  JavaScript | HTML | CSS | Git | Postman | MongoDB | Mongoose | Express.js 
+React | Next.js | Node.js | TypeScript |  JavaScript | HTML | CSS | Git | Postman | MongoDB | Mongoose | Express.js 
 
 ## 💻Featured Projects  
 
-- [Harmoniq](https://github.com/SerdiukSerhii/frontend_project_final_7) – a full-stack team project focused on discovering, reading, saving, and creating articles, as well as exploring author profiles and managing personal content. Features authentication, private routes, article pagination and filtering, bookmarks, image uploads, and rich-text article creation. 
+- [Harmoniq](https://github.com/SerdiukSerhii/frontend_project_final_7) – a full-stack team project focused on discovering, reading, saving, and creating articles, exploring author profiles and managing personal content. Features authentication, private routes, article pagination and filtering, bookmarks, image uploads, and rich-text article creation. 
 
   As a Scrum Master, I coordinated the development process, monitored deadlines and task distribution, maintained project documentation, and presented the final project. 
   As a Full-Stack Developer, I developed the Login page and implemented a backend endpoint for retrieving user information.
