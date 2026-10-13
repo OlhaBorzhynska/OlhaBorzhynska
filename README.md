@@ -24,6 +24,9 @@ React | Next.js | Node.js | TypeScript |  JavaScript | HTML | CSS | Git | Postma
   Tech stack:
 Next.js 15, React, TypeScript, CSS Modules, TanStack Query, Zustand, Formik, Yup, Tiptap, Axios, Node.js, Express.js, MongoDB, Mongoose, Joi, Swagger/OpenAPI, Multer, REST API, Git, Vercel, Render.
 
+- [Psychologists Services](https://github.com/OlhaBorzhynska/psychologists-services) - an individual frontend web application for finding psychologists and managing favorite specialists. Features psychologist listings, sorting and filtering, user authentication, protected routes, favorites management, and an appointment request form with validation and toast notifications. Implemented responsive layouts for mobile, tablet, and desktop devices, along with dynamic SEO metadata.
+
+  Tech stack: React, TypeScript, Vite, React Router, Firebase Authentication, Firebase Realtime Database, React Hook Form, Yup, React Hot Toast, CSS Modules, Git, Vercel.
 
 - [TravelTrucks](https://github.com/OlhaBorzhynska/travel-trucks) - an individual frontend web application for discovering and renting campers. Features catalog browsing, filtering, pagination with “Load more”, detailed camper pages with image galleries, specifications, reviews, and a booking form with validation and toast notifications. Implemented dynamic SEO metadata and UI based on the provided design.
 
