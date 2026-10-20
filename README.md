@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm Olha Borzhynska
 
-# Junior Full-Stack Developer | React, Next.js, TypeScript, Node.js, JavaScript, HTML, CSS
+# Junior Full-Stack Developer | React, Next.js, TypeScript, Node.js
 
 I didn’t plan to become a developer - but once I wrote my first lines of code, I couldn’t stop.
 
-Today I’m a Junior Full-Stack Developer with a strong foundation in React, Next.js, Node.js, TypeScript, JavaScript, HTML, and CSS.
+Today I’m a Junior Full-Stack Developer with hands-on experience building web applications using React, TypeScript, Next.js, Node.js.
 
-I have hands-on experience building full-stack web applications, integrating REST APIs, implementing authentication, working with databases, forms, and validation using technologies such as Express.js, MongoDB, and Mongoose.
+Through individual and team projects, I’ve worked with REST APIs, TanStack Query, authentication, form validation, state management, and backend integration using Node.js, Express.js, and MongoDB. I’m also familiar with Git, code collaboration, and Agile/Scrum workflows.
 
 During team projects, I also took on the Scrum Master role, coordinating tasks and deadlines, maintaining project documentation, and supporting effective team collaboration.
 
