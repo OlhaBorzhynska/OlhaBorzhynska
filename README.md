@@ -16,6 +16,11 @@ React | Next.js | Node.js | TypeScript |  JavaScript | HTML | CSS | Git | Postma
 
 ## 💻Featured Projects  
 
+- [Read Journey](https://github.com/OlhaBorzhynska/read-journey) - an individual frontend web application for managing a personal book library and tracking reading progress. Features user authentication, recommended books with search and server-side pagination, personal library management, reading session tracking, interactive reading statistics, and a reading diary with reading speed calculations. Integrated with a REST API for authentication and data management. Includes form validation, protected routes, reusable modal windows, and responsive layouts for mobile, tablet, and desktop devices.
+
+  Tech stack: 
+React, TypeScript, Vite, React Router, Redux Toolkit, Axios, Formik, Yup, React Hot Toast, CSS Modules, REST API, Git, GitHub.
+
 - [Harmoniq](https://github.com/SerdiukSerhii/frontend_project_final_7) – a full-stack team project focused on discovering, reading, saving, and creating articles, exploring author profiles and managing personal content. Features authentication, private routes, article pagination and filtering, bookmarks, image uploads, and rich-text article creation. 
 
   As a Scrum Master, I coordinated the development process, monitored deadlines and task distribution, maintained project documentation, and presented the final project. 
@@ -26,7 +31,8 @@ Next.js 15, React, TypeScript, CSS Modules, TanStack Query, Zustand, Formik, Yup
 
 - [Psychologists Services](https://github.com/OlhaBorzhynska/psychologists-services) - an individual frontend web application for finding psychologists and managing favorite specialists. Features psychologist listings, sorting and filtering, user authentication, protected routes, favorites management, and an appointment request form with validation and toast notifications. Implemented responsive layouts for mobile, tablet, and desktop devices, along with dynamic SEO metadata.
 
-  Tech stack: React, TypeScript, Vite, React Router, Firebase Authentication, Firebase Realtime Database, React Hook Form, Yup, React Hot Toast, CSS Modules, Git, Vercel.
+  Tech stack: 
+React, TypeScript, Vite, React Router, Firebase Authentication, Firebase Realtime Database, React Hook Form, Yup, React Hot Toast, CSS Modules, Git, Vercel.
 
 - [TravelTrucks](https://github.com/OlhaBorzhynska/travel-trucks) - an individual frontend web application for discovering and renting campers. Features catalog browsing, filtering, pagination with “Load more”, detailed camper pages with image galleries, specifications, reviews, and a booking form with validation and toast notifications. Implemented dynamic SEO metadata and UI based on the provided design.
 
