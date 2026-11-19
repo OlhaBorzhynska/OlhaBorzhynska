@@ -16,52 +16,51 @@ React | Next.js | Node.js | TypeScript |  JavaScript | HTML | CSS | Git | Postma
 
 ## 💻Featured Projects  
 
-- [Read Journey](https://github.com/OlhaBorzhynska/read-journey) - an individual frontend web application for managing a personal book library and tracking reading progress. Features user authentication, recommended books with search and server-side pagination, personal library management, reading session tracking, interactive reading statistics, and a reading diary with reading speed calculations. Integrated with a REST API for authentication and data management. Includes form validation, protected routes, reusable modal windows, and responsive layouts for mobile, tablet, and desktop devices.
+- **[Read Journey](https://github.com/OlhaBorzhynska/read-journey)** - an individual frontend web application for managing a personal book library and tracking reading progress. Features user authentication, recommended books with search and server-side pagination, personal library management, reading session tracking, interactive reading statistics, and a reading diary with reading speed calculations. Integrated with a REST API for authentication and data management. Includes form validation, protected routes, reusable modal windows, and responsive layouts for mobile, tablet, and desktop devices.
 
-  Tech stack: 
+  **Tech stack:** 
 React, TypeScript, Vite, React Router, Redux Toolkit, Axios, Formik, Yup, React Hot Toast, CSS Modules, REST API, Git, GitHub.
 
-- [Harmoniq](https://github.com/SerdiukSerhii/frontend_project_final_7) – a full-stack team project focused on discovering, reading, saving, and creating articles, exploring author profiles and managing personal content. Features authentication, private routes, article pagination and filtering, bookmarks, image uploads, and rich-text article creation. 
+- **[Harmoniq](https://github.com/SerdiukSerhii/frontend_project_final_7)** – a full-stack team project focused on discovering, reading, saving, and creating articles, exploring author profiles and managing personal content. Features authentication, private routes, article pagination and filtering, bookmarks, image uploads, and rich-text article creation. 
 
   As a Scrum Master, I coordinated the development process, monitored deadlines and task distribution, maintained project documentation, and presented the final project. 
   As a Full-Stack Developer, I developed the Login page and implemented a backend endpoint for retrieving user information.
 
-  Tech stack:
+  **Tech stack:**
 Next.js 15, React, TypeScript, CSS Modules, TanStack Query, Zustand, Formik, Yup, Tiptap, Axios, Node.js, Express.js, MongoDB, Mongoose, Joi, Swagger/OpenAPI, Multer, REST API, Git, Vercel, Render.
 
-- [Psychologists Services](https://github.com/OlhaBorzhynska/psychologists-services) - an individual frontend web application for finding psychologists and managing favorite specialists. Features psychologist listings, sorting and filtering, user authentication, protected routes, favorites management, and an appointment request form with validation and toast notifications. Implemented responsive layouts for mobile, tablet, and desktop devices, along with dynamic SEO metadata.
+- **[Psychologists Services](https://github.com/OlhaBorzhynska/psychologists-services)** - an individual frontend web application for finding psychologists and managing favorite specialists. Features psychologist listings, sorting and filtering, user authentication, protected routes, favorites management, and an appointment request form with validation and toast notifications. Implemented responsive layouts for mobile, tablet, and desktop devices, along with dynamic SEO metadata.
 
-  Tech stack: 
+  **Tech stack:** 
 React, TypeScript, Vite, React Router, Firebase Authentication, Firebase Realtime Database, React Hook Form, Yup, React Hot Toast, CSS Modules, Git, Vercel.
 
-- [TravelTrucks](https://github.com/OlhaBorzhynska/travel-trucks) - an individual frontend web application for discovering and renting campers. Features catalog browsing, filtering, pagination with “Load more”, detailed camper pages with image galleries, specifications, reviews, and a booking form with validation and toast notifications. Implemented dynamic SEO metadata and UI based on the provided design.
+- **[TravelTrucks](https://github.com/OlhaBorzhynska/travel-trucks)** - an individual frontend web application for discovering and renting campers. Features catalog browsing, filtering, pagination with “Load more”, detailed camper pages with image galleries, specifications, reviews, and a booking form with validation and toast notifications. Implemented dynamic SEO metadata and UI based on the provided design.
 
-  Tech stack: 
+  **Tech stack:**
 Next.js 16, React, TypeScript, CSS Modules, TanStack Query, Axios, Formik, Yup, Swiper, React Hot Toast, Git, Vercel.
 
-- [Notes API](https://github.com/OlhaBorzhynska/nodejs-hw) – is a RESTful backend application built with Node.js, Express, and MongoDB. It provides secure user authentication and allows authenticated users to create, update, search, and manage personal notes. The API follows REST principles and includes interactive documentation powered by Swagger.
+- **[Notes API](https://github.com/OlhaBorzhynska/nodejs-hw)** – is a RESTful backend application built with Node.js, Express, and MongoDB. It provides secure user authentication and allows authenticated users to create, update, search, and manage personal notes. The API follows REST principles and includes interactive documentation powered by Swagger.
 
-  Tech Stack:
+  **Tech stack:**
 JavaScript, Node.js, MongoDB, Mongoose, Express.js, JWT Authentication, REST API, Swagger UI.
 
-- [NoteHub (Next.js)](https://github.com/OlhaBorzhynska/09-auth) – is a modern note-taking application built with Next.js, React, and TypeScript. The app allows users to register, authenticate, manage personal notes, update their profiles, and upload avatars through a secure and responsive interface.
+- **[NoteHub (Next.js)](https://github.com/OlhaBorzhynska/09-auth)** – is a modern note-taking application built with Next.js, React, and TypeScript. The app allows users to register, authenticate, manage personal notes, update their profiles, and upload avatars through a secure and responsive interface.
 The project demonstrates authentication with JWT, protected routes using Middleware, session management with cookies, API integration, server state management, form validation, file uploads, and modern React development practices.
 
-  Tech Stack:
+  **Tech stack:**
 Next.js, React, TypeScript, HTML, CSS, JavaScript, Zustand, TanStack Query, Axios, React Hook Form, CSS Modules, JWT Authentication, REST API.
 
-- [NoteHub (React)](https://github.com/OlhaBorzhynska/05-notehub) – is a modern notes management application built with React, TypeScript, and TanStack Query. The app allows users to create, search, paginate, and delete notes through a responsive and user-friendly interface.
+- **[NoteHub (React)](https://github.com/OlhaBorzhynska/05-notehub)** – is a modern notes management application built with React, TypeScript, and TanStack Query. The app allows users to create, search, paginate, and delete notes through a responsive and user-friendly interface.
 The project demonstrates work with asynchronous requests, API integration, modal windows, form validation, debounced search, and server state management.
 
-  Tech Stack:
+  **Tech stack:**
 HTML, CSS, JavaScript, React, TypeScript, TanStack Query, Axios, Formik, Yup, CSS Modules, REST API.
 
-- [Mebleuria](https://github.com/yevhenii-priadko/it-creators-project-meblerija) – is a conceptual platform for selecting and ordering modern furniture, implemented as a high-performance landing page with full REST API integration, an advanced filtering system, and a strong focus on seamless UX/UI.
+- **[Mebleuria](https://github.com/yevhenii-priadko/it-creators-project-meblerija)** – is a conceptual platform for selecting and ordering modern furniture, implemented as a high-performance landing page with full REST API integration, an advanced filtering system, and a strong focus on seamless UX/UI.
 As part of a team-based project, I developed the Feedback Section by integrating the Swiper.js slider for responsive UI interaction, implementing dynamic review rendering from a database, and building a star rating visualization component to enhance user experience.
 
-  Tech Stack:
+  **Tech stack:**
 HTML, CSS, JavaScript, Postman, VS Code, Figma, Swiper.js, CSS Star Rating, Axios, IziToast, REST API.
-
 
 ## 🗣️ Languages
 
